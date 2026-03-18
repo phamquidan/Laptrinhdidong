@@ -1,0 +1,5 @@
+LT#MH01#Lap trinh#3#8.0#7.5
+TH#MH02#Co so du lieu#3#7.0#8.0#9.0
+DA#MH03#Do an 1#4#8.5#8.0
+LT#MH04#Toan roi rac#2#6.5#7.0
+TH#MH05#Mang may tinh#3#5.0#6.0#7.0
